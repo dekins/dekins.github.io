@@ -1,0 +1,16 @@
+[
+    {
+        "host":"s1.dein.top",
+        "port":8989,
+        "method":"AES256CFB",
+        "password":"7221322",
+        "remark":"香港高速1"
+    },
+    {
+            "host":"s1.dein.top",
+            "port":8989,
+            "method":"AES256CFB",
+            "password":"7221322",
+            "remark":"香港高速2"
+    }
+]
