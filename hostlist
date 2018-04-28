@@ -16,7 +16,7 @@
         "isDefault":true
     },
     {
-        "address":"s1.dein.top",x
+        "address":"s1.dein.top",
         "port":8989,
         "method":"AES256CFB",
         "password":"7221322",
