@@ -41,7 +41,7 @@
         "port":8989,
         "method":"AES256CFB",
         "password":"7221322",
-        "remark":"台湾",
+        "remark":"台湾1",
         "isDefault":true
     }
 
