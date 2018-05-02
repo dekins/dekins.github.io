@@ -41,7 +41,7 @@
         "port":8989,
         "method":"AES256CFB",
         "password":"7221322",
-        "remark":"香港高速5",
+        "remark":"台湾",
         "isDefault":true
     }
 

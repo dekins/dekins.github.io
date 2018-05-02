@@ -1,0 +1,18 @@
+[
+    {
+        "username":"user1",
+        "mobile":"18621114721",
+        "viplevel":"vip1",
+        "vipstartdate":"2018-04-29",
+        "vipenddate":"2018-05-29",
+        "enable":true
+    },
+    {
+        "username":"user2",
+        "mobile":"18621114722",
+        "viplevel":"vip2",
+        "vipstartdate":"2018-04-29",
+        "vipenddate":"2018-05-29",
+        "enable":true
+    }
+]
